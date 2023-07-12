@@ -1,2 +1,2 @@
-# Desafio-JavaScript
+# Desafios-JavaScript
 DevStart ✌🏽
